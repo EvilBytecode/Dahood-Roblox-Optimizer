@@ -1,0 +1,10 @@
+{
+    "DFIntTaskSchedulerTargetFps": 5588562,
+    "FFlagDebugDisplayFPS": false,
+    "FFlagDebugSkyGray": true,
+    "DFFlagDebugRenderForceTechnologyVoxel": true,
+    "DFFlagDebugPauseVoxelizer": true,
+    "FFlagNewLightAttenuation": true,
+    "FIntRenderShadowIntensity": 0,
+    "FFlagDisablePostFx": true,
+}
